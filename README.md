@@ -1,8 +1,11 @@
 # golang-course
-This repo contains go source code for a course 
+This repo contains golang source code useful for an introduction course
+
 ----
 
 
-
-## How initi a golang module
+## How init a golang module
 go mod init genocs.com/mainmodule
+
+## How to update pckages
+go get .
